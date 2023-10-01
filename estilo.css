@@ -1,0 +1,34 @@
+@font-face {
+    font-family:minhafonte;
+    src: url(ToonyLine_PERSONAL_USE_ONLY.otf);
+}
+
+@font-face {
+    font-family:minhafonte1;
+    src: url(American\ Captain.otf);
+}
+
+h1{
+    color: #6a0c0b;
+    text-align: center;
+    font-family: minhafonte;
+}
+
+#eu{
+    color:#b97d10
+}
+
+blockquote{
+    color:#6a0c0b;
+}
+
+.callout{
+    background-color: #fbca03;
+}
+
+footer{
+    background-color: #67c7eb;
+}
+.top-bar{
+    font-family: minhafonte1;
+}
